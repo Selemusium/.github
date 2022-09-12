@@ -1,8 +1,8 @@
-# A propos de Tyrolium
+# A propos de Sélémusium
 
-Tyrolium est une entreprise multisectorielle qui travaille sur plusieurs projets, principalement sur du développement Web mais aussi notamment du développement de jeux vidéos ou d'applications, de la musique, ou de l'audiovisuel.
+Projet musical de l'entreprise Tyrolium,
+qui réalise tout son branding musical
 
-Elle propose principalement des prestations de services de création de site Web et d'applications pour les particuliers et les professionnels.
-
-Les profits générés par ces prestations seront directement investies dans les projets de l'entreprise.
+Mais qui réalise aussi des remix et musiques originals
+qui nous passionnent et nous les mettons en avant ici
 
